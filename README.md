@@ -6,3 +6,4 @@ This is the [Flotron AG](https://www.flotron.ch/) GitHub page. It displays some 
 # Projects
 
 [3D Demo](https://flotronag.github.io/CesiumDemo/)
+![alt text](https://github.com/FlotronAG/CesiumDemo/blob/main/Schilthorn.png)
